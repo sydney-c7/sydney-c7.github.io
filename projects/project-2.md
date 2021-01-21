@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cell.png
 title: Strengthening Cellulose With Pectin
-permalink: projects/vacay
+permalink: projects/cellulose
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-01
 labels:
