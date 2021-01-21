@@ -1,44 +1,31 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/spark.png
+title: Spark Education
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Entrepreneurship
+  - STEM
+  - Education
+summary: My team participated in the Hacking 4 Recovery Hawaii bootcamp and pitched an online learning platform for middle school students to learn the basics and mindsets of STEM.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/h4r.png">
+  <img class="ui image" src="../images/bmc.PNG">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Hacking 4 Recovery is an innovative, online bootcamp where teams were invited to create solutions to help diversify and grow Hawaii's economy after the negative impact from the COVID-19 pandemic.  For 5 days from 4 to 7 pm, an online meeting was held with all of the mentors and participants where we pitched and improved our innovation each day.  My team worked with the idea of new models of education because we saw a gap between the STEM education in the mainland USA and Hawaii.  We wanted to bridge the gap and create a platform that gives students the chance to be able to experience hands-on STEM learning during the COVID-19 pandemic.  We created Spark Education to help students cooperate with other students across the island and create connections during a time where it is difficult to do both team and hands-on learning.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I was a co-founder and the chief operations officer who was responsible for various tasks such as: writing the reports, collecting data, making presentations, presenting, holding meetings, and formulating our idea.  I started by working with my teammates on developing our idea and working out all of the possible pitfalls.  I continuously worked on improving our idea and updating our pitch.  As we solidified our foundation and basics of the idea, I worked on the curriculum.  I worked with my teammates to decided what was going to be taught, how long each class is, and the activities we were doing in correspondence with the topic of the week.
 
-Here is some code that illustrates how we read values from the line sensors:
+From this project I experienced a snipet of startups and entrepreneurship. I learned about the dedication and time it takes to follow through with an idea and turn it into reality.  I learned the lean starup techniques where we were taught the business aspects of innovation and gather information about our customers.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at [Spark Education Website](https://alez12540.wixsite.com/sparkeducation).
+Check out our linkedin at https://www.linkedin.com/company/spark-hawaii/.
 
 
 
