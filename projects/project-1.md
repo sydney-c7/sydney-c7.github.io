@@ -10,7 +10,7 @@ labels:
   - Entrepreneurship
   - STEM
   - Education
-summary: My team participated in the Hacking 4 Recovery Hawaii bootcamp and pitched an online learning platform for middle school students to learn the basics and mindsets of STEM.
+summary: An online learning platform for middle school students to learn the basics and mindsets of STEM.
 ---
 
 <div class="ui small rounded images">
