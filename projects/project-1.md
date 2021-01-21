@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/spark.png
 title: Spark Education
-permalink: projects/micromouse
+permalink: projects/spark
 # All dates must be YYYY-MM-DD format!
 date: 2020-07-01
 labels:
