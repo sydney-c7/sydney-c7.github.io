@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/spark.png
+image: images/spark (1).jpg
 title: Spark Education
 permalink: projects/spark
 # All dates must be YYYY-MM-DD format!
