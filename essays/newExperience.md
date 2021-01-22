@@ -10,8 +10,6 @@ labels:
   - Programming Languages
 ---
 
-# A New Experience
-
 ## First Encounter
 When I first encountered computer science, I thought that Java was the abbreviation of Javascript.  Now I understand that they are two completely different languages.  Although I wouldn't get too ahead of myself and say that I know everything there is to know about the differences between these languages.  The truth is that I know only of a few of the many differences between the two languages.  I am still new to the language, so I often find myself relating it back to my first programming language, Java.  The syntax of the languages are very similar, so it's easy for me to pick up.
 
