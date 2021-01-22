@@ -90,8 +90,50 @@
   ],
   "work": [
     {
-      "Currently building experience"
-    }
+      "company": "Gen Korean Barbeque House",
+      "position": "Host",
+      "website": "https://www.genkoreanbbq.com/honolulu",
+      "startDate": "2020-11-01",
+      "endDate": "Present",
+      "summary": "Host at Korean barbeque restaurant",
+      "highlights": [
+        "Bringing customers to their table",
+        "Bussing tables"
+        ]
+    },
+    {
+      "company": "Higoto Japanese Eatery",
+      "position": "Kitchen Help/Cashier",
+      "website": "",
+      "startDate": "2020-07-01",
+      "endDate": "Present",
+      "summary": "Cashier and kitchen help for local Japanese bento shop",
+      "highlights": [
+        "Prepping, making, and packing bentos",
+        "Ringing up customers and bagging orders"
+    },
+    {
+      "company": "Starbucks",
+      "position": "Barista",
+      "website": "",
+      "startDate": "2020-10-01",
+      "endDate": "2020-11-08",
+      "summary": "Barista at a chain coffee shop in Safeway",
+      "highlights": [
+        "Making drinks",
+        "Ringing up customers' orders"
+     },
+     {
+      "company": "Ike's Love and Sandwiches",
+      "position": "Team Member",
+      "website": "",
+      "startDate": "2019-09-23",
+      "endDate": "2020-03-01",
+      "summary": "Team member at a chain sandwich shop",
+      "highlights": [
+        "Run cash register",
+        "Prep and make sandwiches"
+      }
   ],
   "volunteer": [
     {
