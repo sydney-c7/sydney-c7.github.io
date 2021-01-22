@@ -1,61 +1,24 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/2clubs.GIF
+title: Thirteens
+permalink: projects/thirteens
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-05-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Card Game
+  - Java
+summary: A small card game for my AP computer science class.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui medium right floated rounded image" src="../images/bluej.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+My project was for my AP CS class in my junior year of high school.  It was a simple card game where the user has to match a pair of cards that equals 13.  If the user has cards left at the end of the game and they don't equal 13, the user loses.  If all of the cards are cleared, the user wins.
 
-To give you a flavor of the game, here is an excerpt from one run:
+For this project I coded the functions that run the game.  I coded the backend code such as, checking that the cards selected where equal to 13, creating the card objects, and keeping track of the cards displayed.  I utilized blueJ for my IDE and the teacher supplied the card pictures and GUIs.
 
-<hr>
+I learned that I have to think about every possibility when I bring in user interface.  I have to think of all of the possible mistakes or solutions that come out when they make a certain choice.  I gained a better grasp of object oriented programming from this project because I had to plan out what things needed to be objects and what needed to be classes.  I also needed to plan out the inheritance and which were subclasses.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source Code is soon to be available
 
