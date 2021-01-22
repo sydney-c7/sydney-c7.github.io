@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/2clubs.GIF
+image: images/card (1).jpg
 title: Thirteens
 permalink: projects/thirteens
 # All dates must be YYYY-MM-DD format!
