@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cellulos.jpg
+image: images/Cellulos.jpg
 title: Strengthening Cellulose With Pectin
 permalink: projects/cellulose
 # All dates must be YYYY-MM-DD format!
