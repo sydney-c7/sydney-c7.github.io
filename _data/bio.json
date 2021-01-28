@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
         "IOS",
         "Linux",
@@ -37,14 +37,14 @@
       ]
     },
     {
-      "name": "app development",
+      "name": "App Development",
       "keywords": [
         "IOS",
         "Games"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
         "AI",
         "Robotics"
