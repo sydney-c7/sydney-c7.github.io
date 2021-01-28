@@ -13,8 +13,6 @@ labels:
 summary: An online learning platform for middle school students to learn the basics and mindsets of STEM.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/h4r.png">
-
 Hacking 4 Recovery is an innovative, online bootcamp where teams were invited to create solutions to help diversify and grow Hawaii's economy after the negative impact from the COVID-19 pandemic.  For 5 days from 4 to 7 pm, an online meeting was held with all of the mentors and participants where we pitched and improved our innovation each day.  My team worked with the idea of new models of education because we saw a gap between the STEM education in the mainland USA and Hawaii.  We wanted to bridge the gap and create a platform that gives students the chance to be able to experience hands-on STEM learning during the COVID-19 pandemic.  We created Spark Education to help students cooperate with other students across the island and create connections during a time where it is difficult to do both team and hands-on learning.
 
 Here is one of the versions of our business model canvas.
