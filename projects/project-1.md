@@ -23,6 +23,7 @@ For this project, I was a co-founder and the chief operations officer who was re
 From this project I experienced a snipet of startups and entrepreneurship. I learned about the dedication and time it takes to follow through with an idea and turn it into reality.  I learned the lean starup techniques where we were taught the business aspects of innovation and gather information about our customers.
 
 You can learn more at [Spark Education Website](https://alez12540.wixsite.com/sparkeducation).
+
 Check out our Linkedin at [Spark Education Linkedin](https://www.linkedin.com/company/spark-hawaii/).
 
 
