@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/card (1).jpg
+image: images/cardsCover.jpg
 title: Thirteens
 permalink: projects/thirteens
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: A small card game for my AP computer science class.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/bluej.PNG">
+<img class="ui medium right floated rounded image" src="../images/cards.jpg">
 
 My project was for my AP CS class in my junior year of high school.  It was a simple card game where the user has to match a pair of cards that equals 13.  If the user has cards left at the end of the game and they don't equal 13, the user loses.  If all of the cards are cleared, the user wins.
 
