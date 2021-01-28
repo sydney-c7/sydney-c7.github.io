@@ -1,10 +1,9 @@
 ---
 layout: project
 type: project
-image: images/Cellulos.jpg
+image: images/celluloseF.jpg
 title: Strengthening Cellulose With Pectin
 permalink: projects/cellulose
-# All dates must be YYYY-MM-DD format!
 date: 2018-09-01
 labels:
   - Material Science
