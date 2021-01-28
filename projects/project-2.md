@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/celluloseF.jpg
+image: /images/celluloseF.jpg
 title: Strengthening Cellulose With Pectin
 permalink: projects/cellulose
 date: 2018-09-01
