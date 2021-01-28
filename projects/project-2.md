@@ -16,10 +16,10 @@ I competed in Hawaii State Science Fair with this project where various students
 
 Cellulose holds great potential for building materials because it is a strong, abundant, and organic polymer.  In plants, pectin is what helps hold and strengthen the bond between the cellulose molecules.  By using esterification, a chemical reaction involcing an alcohol, carboxylic acid, and catalyst acid, my teammate and I attempted to strengthen the cellulose cross-links.
 
-<img class="ui medium right floated rounded image" src="../images/formula.png">
+<img class="ui large left rounded image" src="../images/formula.png">
 
 We utilized filter paper as our source of cellulose and soaked it in a pectin solution where we later esterified it with tosic acid.  The strength was tested using deflection data from the stiffness of the paper.
 
-<img class="ui medium right floated rounded image" src="../images/graph1.png">
+<img class="ui large left rounded image" src="../images/graph1.png">
 
 From this project, I gained time management, presentation, and critical thinking skills.  Throughout the experiments, I had to think about what we could improve on and why it wasn't working.  I consistently thought of both new ideas and our pitfalls to better improve each test we carried out.
