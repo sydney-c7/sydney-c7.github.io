@@ -2,8 +2,7 @@
 layout: essay
 type: essay
 title: A New Experience
-# All dates must be YYYY-MM-DD format!
-date: 2020-01-21
+date: 2020-01-28
 labels:
   - Javascript
   - Learning
