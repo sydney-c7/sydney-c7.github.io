@@ -9,7 +9,7 @@ labels:
 ---
 
 ## Why We Should Ask Smart Questions
-Throughout the history of mankind, people grew from curiosity.  Curiosity is what sparked the flame for change and innovation.  When it comes to asking questions to fulfill one's curiosity, asking questions in a "smart way" yields not only a better response, but helps the person in question with his/her understanding of the question.  Asking a smart question that is precise and thought-provoking attracts software engineers that are willing to help and reflect the same amount of effort put in the question.  By asking a smart question, we avoid wasting both the person in question and the person answering's times.
+Throughout the history of mankind, people learned from curiosity.  Curiosity is what sparked the flame for change and innovation.  When it comes to asking questions to fulfill one's curiosity, asking questions in a "smart way" yields not only a better response, but helps the person in question with his/her understanding of the question.  Asking a smart question that is precise and thought-provoking attracts software engineers that are willing to help and reflect the same amount of effort put in the question.  By asking a smart question, we avoid wasting both the person in question and the person answering's times.
 
 ## An Example of a "Not Smart" Question
 Here is a link to the question on Stack Overflow: [The Question in Question](https://stackoverflow.com/questions/65941432/how-do-i-make-a-user-pay-before-creating-user-account-django).
