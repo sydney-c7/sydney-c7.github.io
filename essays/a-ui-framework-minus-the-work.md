@@ -38,3 +38,4 @@ img {
 
 ## Overall
 Semantic UI has opened a world of possibilities for me.  The ease of the syntax makes it less intimidating for new software engineers, so more people can step out of their comfort zone and create visually stunning websites.  I can't wait to learn other UI Frameworks and broaden my capabilities as a software engineer even more! 
+
