@@ -18,5 +18,5 @@ We incorporate design patterns into our everyday life without even realizing it.
 ## Budget Munchies
 Budget Munchies is a new website application that I am working on with three of my classmates. Our goal is to create site that allows UH Manoa students to find and share cheap and easy recipes. I saw this project as a perfect opportunity to practice utilizing design patterns in software engineering. At first I'll admit that it was a bit tough to catch on because everything was so new to me, but I thought about it like playing Mad Libs and filling in the blanks while using the meteor application template given by our professor. I then started to see how everything was connecting together, so it was helpful to have something to build off of. One of the design patterns that helped me out the most was the Singleton design pattern because I was able to make an instance of the Recipe class and import that instance to be used all over my code, so I didn't have to keep on recreating instances and figure out how to connect all of them.
 
-## 
+## Still Learning
 Giving Mad Lib design patterns a try in my software engineering has helped me create a solid foundation to build my knowledge off of, so I can save time and soar to greater heights!
