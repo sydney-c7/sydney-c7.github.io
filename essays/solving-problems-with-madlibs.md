@@ -9,7 +9,7 @@ labels:
 ---
 
 ## Playing Mad Libs
-<img class="ui small image" src="../images/madLibs.png">
+<img class="ui medium right floated image" src="../images/madLibs.png">
 Throughout our everyday lives we encounter a variety of problems that add to the never-ending stress of life. We usually tackle these problems one-by-one with a different solution for each problem, but what if we were able to solve a group of problems with by just filling in the blanks in a reusable solution. This is where design patterns come in. Design patterns are template solutions that are applicable to a variety of problems with similar traits. I like to think about it like playing Mad Libs. You have a set story, but there are blanks where you can fill in a specified noun, verb, adjective, or adverb. Depending on the word of your choice, the story can be funny, scary, happy, you name it. The story transforms to fit the feelings and message you are conveying. When using design patterns in software engineering we fill in the blanks with objects or relationships to accomplish the task at hand. Just like how Mad Libs are curated by professionals to make sense regardless of what word you choose, experts refine design patterns so we are able to solve common, reoccuring problems with the best solution.
 
 ### Mad Libs in Everyday Life
