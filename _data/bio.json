@@ -60,14 +60,16 @@
         "C++",
         "Java",
         "Javascript",
-        "HTML"
+        "HTML",
+        "SQL"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "Beginner",
       "keywords": [
-        "Git/GitHub"
+        "Git/GitHub",
+        "CPanel"
       ]
     }
   ],
@@ -84,7 +86,8 @@
         "ICS211",
         "ICS212",
         "ICS311",
-        "ICS314"
+        "ICS314",
+        "ICS321"
       ]
     }
   ],
