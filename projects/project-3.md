@@ -20,5 +20,4 @@ For this project I coded the functions that run the game.  I coded the backend c
 
 I learned that I have to think about every possibility when I bring in user interface.  I have to think of all of the possible mistakes or solutions that come out when they make a certain choice.  I gained a better grasp of object oriented programming from this project because I had to plan out what things needed to be objects and what needed to be classes.  I also needed to plan out the inheritance and which were subclasses.
 
-Source Code is soon to be available
-
+Although this was a rather simple project, this was my turning point that made me realize I wanted to major in computer science. The thinking and problem solving I did during this project brought me joy because I was able to test out different methods of solving a problem and find the best one.
