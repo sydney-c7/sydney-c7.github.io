@@ -17,7 +17,7 @@ summary: A web application for UH Manoa students to explore cheap and easy recip
 Budget Munchies is a web application designed for UH Manoa students. The goal is for students to have access to cheap and easy homemade recipes, so they can improve their eating habits and hopefully save some money in the process of doing so. The application features recipes categorized by meal type, vendors that sell groceries or ready-made food, and a social media-like aspect where students may share recipes with their fellow peers.
 
 ### Our Landing Page
-<img class="ui medium image" src="../images/landing-page.PNG">
+<img class="ui medium image" src="../images/landing-page.png">
 
 ## My Roles
 I did not have much experience, so I mostly focused on the backend of the project. I worked on creating the collections, getting the favorites to work, the navbar, and the users page. Getting the favorites button to work took me the most amount of time. I wanted to make sure that when it was clicked it would add the recipe to the user's favorites collection if it wasn't already in there. However, if it was, then it would remove the recipe from the favorites collection and reduce the number of likes associated with the recipe. I utilized underscore and javascript's built-in functions to save time and help me out.
